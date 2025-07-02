@@ -1,1 +1,1 @@
-# yeni_proje2
+# Yeni Proje 2
