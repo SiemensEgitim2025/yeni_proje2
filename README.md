@@ -1,2 +1,2 @@
-# Yeni Proje 2
+# Yeni Proje sonuncu
 bunu da yeni yazılımcı ekledi
